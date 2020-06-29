@@ -18,6 +18,7 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
     background: #000;
+    overflow-x: hidden;
 }
 
 /*home pAGE*/
